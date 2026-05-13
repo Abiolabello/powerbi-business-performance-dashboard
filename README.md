@@ -21,14 +21,7 @@ The dashboard provides insights into:
 
 # Dashboard Preview
 
-> Add dashboard screenshots here
-
-Example:
-
-```plaintext
-/images/dashboard-overview.png
-/images/profit-analysis.png
-```
+![alt text](image.png)
 
 ---
 
