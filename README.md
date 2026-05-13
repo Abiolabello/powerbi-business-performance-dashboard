@@ -21,7 +21,7 @@ The dashboard provides insights into:
 
 # Dashboard Preview
 
-![alt text](dashboard-overview.png)
+![Dashboard Preview](images/dashboard-overview.png)
 
 ---
 
